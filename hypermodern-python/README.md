@@ -1,7 +1,7 @@
 For Running this project follow this procedure
 
-cd hypermodern-python
+1.  cd hypermodern-python
 
-install poetry
+2. install poetry
 
-poetry run hypermodern-python
+3. poetry run hypermodern-python
